@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sandy – A Curious Coder & Builder
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-safer20.netlify.app-0a66c2?style=for-the-badge&logo=netlify&logoColor=white)](https://safer20.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-safer20.netlify.app-0a66c2?style=for-the-badge&logo=netlify&logoColor=white)](https://sandipan-das.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandipan-das-4bb71b319/)
 
 I'm a passionate **Backend Developer** and final-year **B.Sc. IT** student from Mumbai University. I love building scalable systems, automating things, and creating impactful tech.
